@@ -1,3 +1,3 @@
 # demo-repo
-#my first repo
-Hello world:)
+# my first repo
+Hello, world:)
